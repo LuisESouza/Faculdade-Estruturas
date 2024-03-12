@@ -1,3 +1,3 @@
 # Faculdade-Estruturas
 
-Esta implementação de árvore binária é uma introdução ao conceito de árvores e suas operações básicas. Ela demonstra como os elementos são organizados na árvore e como as operações podem ser realizadas para manipular a estrutura. 
+Este código Java para uma árvore binária foi desenvolvido durante aulas de Estrutura de Dados, aplicando conceitos teóricos em uma implementação prática. Com ênfase nas operações essenciais como inserção, remoção, busca e impressão, o código segue boas práticas de programação, priorizando clareza e eficiência. Destinado a fins educacionais, serve como recurso para alunos praticarem e compreenderem os conceitos de estruturas de dados, oferecendo comentários informativos como guias. Essa implementação não apenas reforça os fundamentos das árvores binárias, mas também promove habilidades essenciais de programação e algoritmos.
